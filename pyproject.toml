@@ -1,0 +1,7 @@
+[project]
+name = "Fast Car API"
+version = "0.1.0"
+description = "FastAPI application for car management"
+authors = [
+        {name = "Jonas Franco", email = "jonasbfranco@gmail.com"}
+]
